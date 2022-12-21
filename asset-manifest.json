@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test-dep-app/static/css/main.a92f1cf4.chunk.css",
+    "main.js": "/test-dep-app/static/js/main.ad77c580.chunk.js",
+    "main.js.map": "/test-dep-app/static/js/main.ad77c580.chunk.js.map",
+    "runtime-main.js": "/test-dep-app/static/js/runtime-main.e5fb9dd5.js",
+    "runtime-main.js.map": "/test-dep-app/static/js/runtime-main.e5fb9dd5.js.map",
+    "static/js/2.308cff79.chunk.js": "/test-dep-app/static/js/2.308cff79.chunk.js",
+    "static/js/2.308cff79.chunk.js.map": "/test-dep-app/static/js/2.308cff79.chunk.js.map",
+    "index.html": "/test-dep-app/index.html",
+    "static/css/main.a92f1cf4.chunk.css.map": "/test-dep-app/static/css/main.a92f1cf4.chunk.css.map",
+    "static/js/2.308cff79.chunk.js.LICENSE.txt": "/test-dep-app/static/js/2.308cff79.chunk.js.LICENSE.txt",
+    "static/media/dashed-line.45ce6e2b.svg": "/test-dep-app/static/media/dashed-line.45ce6e2b.svg",
+    "static/media/house.45d04f77.svg": "/test-dep-app/static/media/house.45d04f77.svg",
+    "static/media/landscape.4c040d9c.svg": "/test-dep-app/static/media/landscape.4c040d9c.svg",
+    "static/media/santa.17a6d46e.svg": "/test-dep-app/static/media/santa.17a6d46e.svg",
+    "static/media/sleigh.d748c63b.png": "/test-dep-app/static/media/sleigh.d748c63b.png",
+    "static/media/tree.0958a173.png": "/test-dep-app/static/media/tree.0958a173.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fb9dd5.js",
+    "static/js/2.308cff79.chunk.js",
+    "static/css/main.a92f1cf4.chunk.css",
+    "static/js/main.ad77c580.chunk.js"
+  ]
+}
